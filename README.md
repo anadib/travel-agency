@@ -1,5 +1,5 @@
 <h1 align="center">
- Travel Agency Website
+ Travel Agency
 </h1>
 
 ![](https://github.com/anadib/travel-company/blob/main/gifs/travelAgencyDesktop.gif?raw=true)
